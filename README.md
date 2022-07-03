@@ -1,4 +1,4 @@
 # navCss
 navegador responsive
 
-[![nav.png](https://i.postimg.cc/W31bNXFz/nav.png)](https://postimg.cc/1gbZM0K1)
+https://raw.githubusercontent.com/JosZero/asstess/master/nav.png?token=GHSAT0AAAAAABWHTLOVYVK4TLXZDN6APHR2YWCDUSQ
